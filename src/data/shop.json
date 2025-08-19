@@ -14,5 +14,5 @@
   { "id": "r13", "name": "百寿爺日式拉麵專賣店", "area": "新北新店", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/uNtsH6Q25QEgsXEj7" },
   { "id": "r14", "name": "海貓亭", "area": "新北新店", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/nxzn1fDGQsdKfm9S7" },
   { "id": "r15", "name": "柳町家拉麵", "area": "新北蘆洲", "rating": 4.8, "mapUrl":"https://maps.app.goo.gl/ZSowLgsGpqDsnQ4p8" },
-  { "id": "r15", "name": "熊越岳", "area": "新北新莊", "rating": 4.6, "mapUrl":"https://maps.app.goo.gl/fs9UuwMgPHe7Scxi8" }
+  { "id": "r16", "name": "熊越岳", "area": "新北新莊", "rating": 4.6, "mapUrl":"https://maps.app.goo.gl/fs9UuwMgPHe7Scxi8" }
 ]
