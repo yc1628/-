@@ -1,0 +1,18 @@
+[
+  { "id": "r1", "name": "隱家拉麵（赤峰店）", "area": "台北中山", "rating": 4.3, "mapUrl":"https://maps.app.goo.gl/j6VQC7T7XWYzCpoQ8"},
+  { "id": "r2", "name": "Totto Ramen 鳥人拉麵（中山店）", "area": "台北中山", "rating": 4.2, "mapUrl":"https://maps.app.goo.gl/xHWoysBFtbuJvHRL9"},
+  { "id": "r3", "name": "麵屋壹慶", "area": "台北中山", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/tHfBR8JZ1SQNBmPy5" },
+  { "id": "r4", "name": "塩琉", "area": "台北中正", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/vpN2ySafHbsYHwRi8" },
+  { "id": "r5", "name": "鬼金棒（台北總店）", "area": "台北中山", "rating": 4.1, "mapUrl":"https://maps.app.goo.gl/NwEVXdMYrfDurpEP6" },
+  { "id": "r6", "name": "麒麟創作拉麵坊", "area": "台北中山", "rating": 4.7, "mapUrl":"https://maps.app.goo.gl/eE4Fmnrz2Hdcq1bZ8" },
+  { "id": "r7", "name": "麵屋千雲 Chikumo", "area": "台北中山", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/4K4e5BPwUzsyUHkM8" },
+  { "id": "r8", "name": "Okaeri 你回來啦拉麵", "area": "台北大安", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/Xxppjg9droqnFc1w8" },
+  { "id": "r9", "name": "美濃屋", "area": "台北中山", "rating": 4.1, "mapUrl":"https://maps.app.goo.gl/KubwedLHCQA2iu8n9" },
+  { "id": "r10", "name": "豚人拉麵（本店）", "area": "台北大安", "rating": 4.3, "mapUrl":"https://maps.app.goo.gl/sfe1ofs6H86vwKcz7" },
+  { "id": "r11", "name": "道樂屋台", "area": "台北士林", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/oq57Ywf5jzyFHKng7" },
+  { "id": "r12", "name": "辰拉麵", "area": "新北永和", "rating": 4.8, "mapUrl":"https://maps.app.goo.gl/dJHjFHuzFUuWHVD98" },
+  { "id": "r13", "name": "百寿爺日式拉麵專賣店", "area": "新北新店", "rating": 4.4, "mapUrl":"https://maps.app.goo.gl/uNtsH6Q25QEgsXEj7" },
+  { "id": "r14", "name": "海貓亭", "area": "新北新店", "rating": 4.5, "mapUrl":"https://maps.app.goo.gl/nxzn1fDGQsdKfm9S7" },
+  { "id": "r15", "name": "柳町家拉麵", "area": "新北蘆洲", "rating": 4.8, "mapUrl":"https://maps.app.goo.gl/ZSowLgsGpqDsnQ4p8" },
+  { "id": "r15", "name": "熊越岳", "area": "新北新莊", "rating": 4.6, "mapUrl":"https://maps.app.goo.gl/fs9UuwMgPHe7Scxi8" }
+]
